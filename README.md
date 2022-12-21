@@ -34,7 +34,7 @@ I used to have the customary blog where I wrote about full-stack web development
 
 So I thought it would be easier and more interesting to have a publicly accessible wiki instead of a blog. It would be a good resource for me as much as anyone else. A place to document everything related to being a #Deafblind Engineer.
 
-* Project URL: currently unavailable
+* Project URL: Currently unavailable
 * Repository: n/a
 ### The Calma Project
 **Project Technologies:**
@@ -44,8 +44,8 @@ So I thought it would be easier and more interesting to have a publicly accessib
 
 The Calma Project is a full-stack web development project based on a traditional LAMP stack. The core focus of the project is to build a responsive web site with accessibility at the forefront of the design process.
 
-* Project URL: currently unavailable
-* Repository: n/a
+* Project URL: Currently unavailable
+* Repository: Private
 ### The Tengwar Project
 **Project Technologies:**
 * LAMP Stack (Linux, Apache, MySQL PHP) and WordPress
@@ -54,8 +54,8 @@ The Calma Project is a full-stack web development project based on a traditional
 
 The Tengwar Project is a WordPress Development with the core focus being on developing Themes, Plugins, and APIs with accessibility at the forefront of the design process.
 
-* Project URL: currently unavailable
-* Repository: n/a
+* Project URL: Currently unavailable
+* Repository: Private
 ### The Loke Project
 **Project Technologies:**
 * Flask Stack (Linux, Apache, Flask, and Python)
@@ -64,8 +64,8 @@ The Tengwar Project is a WordPress Development with the core focus being on deve
 
 The Lókë Project is a full-stack web development project based on a Flask stack with embedded machine learning modules in a web application. The core focus of this project is about creating a lightweight, flexible, scalable web app where machine learning can be implemented to improve content accessibility.
 
-* Project URL: currently unavailable
-* Repository: n/a
+* Project URL: Currently unavailable
+* Repository: Private
 ### The ShadowFax Project
 **Project Technologies:**
 * MERN Stack (MongoDB, Express.js, ReactJS, Node.js)
@@ -74,5 +74,5 @@ The Lókë Project is a full-stack web development project based on a Flask stac
 
 The Shadowfax Project is a full-stack web development project using MERN. Its focus is about understanding the technologies needed to build a real React project with ReactJS, Redux, Hooks and Context, NodeJS, Express.js and MongoDB.
 
-* Project URL: currently unavailable
-* Repository: n/a
+* Project URL: Currently unavailable
+* Repository: Private
