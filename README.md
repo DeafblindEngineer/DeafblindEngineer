@@ -9,7 +9,7 @@ I started my web development journey in the mid-nineties before the war of the b
 ## Projects
 This page provides a summary of my full-stack web development and web accessibility projects. These projects are about my research, development, testing, and evaluation of frontend and backend technologies in conjunction with my attempts to better interpret WCAG.
 1. [Deafblind Social Project](#deafblind-social-project)
-2. [Wiki Project](#wiki-project)
+2. [Deafblind Wiki Project](#deafblind-wiki-project)
 3. [The Calma Project](#the-calma-project)
 4. [The Tengwar Project](#the-tengwar-project)
 5. [The Loke Project](#the-loke-project)
@@ -24,7 +24,7 @@ The Deafblind Social Project is a self-hosted Mastodon Instance. This Mastodon I
 
 * Project URL: [@deafblind@deafblind.social](https://deafblind.social/@deafblind)
 * Repository: n/a
-### Wiki Project
+### Deafblind Wiki Project
 **Project Technologies:**
 * LAMP Stack (Linux, Apache, MariDB, PHP) and MediaWiki
 
@@ -34,7 +34,7 @@ I used to have the customary blog where I wrote about full-stack web development
 
 So I thought it would be easier and more interesting to have a publicly accessible wiki instead of a blog. It would be a good resource for me as much as anyone else. A place to document everything related to being a #Deafblind Engineer.
 
-* Project URL: Currently unavailable
+* Project URL: URL: [https://deafblind.wiki](https://deafblind.wiki)
 * Repository: n/a
 ### The Calma Project
 **Project Technologies:**
