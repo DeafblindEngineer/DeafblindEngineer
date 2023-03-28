@@ -4,3 +4,6 @@ Hello. I am Gizmo. The Deafblind Engineer. An engineer powered by braille. I am 
 
 ## Website
 * Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer)
+
+## Projects
+* A complete redesign of my website to reflect changes in my work. Due to be deployed in April 2023.
