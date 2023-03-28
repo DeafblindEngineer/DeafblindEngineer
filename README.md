@@ -8,4 +8,4 @@ I am a passionate engineer, and an all-around computer geek who enjoys solving p
 * Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer)
 
 ## Projects
-* A complete redesign of my website to reflect changes in my work. Due to be deployed mid- to -late April 2023.
+* The Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer) is currently undergoing a scheduled redesign, and is due to be deployed mid- to late- April 2023.
