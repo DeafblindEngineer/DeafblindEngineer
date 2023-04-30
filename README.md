@@ -8,4 +8,4 @@ I am a passionate engineer, and an all-around computer geek who enjoys solving p
 * Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer)
 
 ## Projects
-* The Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer) has recently refreshed to discuss new and old ideas, not just in web development, and blind computing but also in science, engineering, and architecture in general.
+* The Deafblind Engineer: [https://deafblind.engineer](https://deafblind.engineer) has recently been refreshed to discuss new and old ideas, not just in web development, and blind computing but also in science, engineering, and architecture in general.
