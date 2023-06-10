@@ -35,6 +35,14 @@ I am a passionate engineer, and an all-around computer geek who enjoys solving p
 
 * [The Palantíri Project](https://deafblind.engineer/pages/project/the-palantiri-project) is part of my research into concurrent, parallel, and distributed computing. The core focus of this project is to employ the availability of inexpensive computing tools to achieve both the computing and processing power of supercomputers at a minimum cost.
 
+#### The Tinco Project
+
+* The Tinco Project is my forays into bare metal programming. Currently I am programming on two different hardware: Intel (Intel NUC), and Arm (Raspberry Pi 4). The embedded software languages I am working with are C, C++, and Rust.
+
+#### The Ceulë Project
+
+* The Ceulë Project is a project to revive the ElBraille V40 5th Gen. by installing a Linux distro on the device and developing custom drivers to make the entire hardware fully functional under Linux. I am testing three distros: Debian, Ubuntu, and Arch Linux. The drivers are being written in C and C++.
+
 ### Artificial Intelligence and Data Science:
 
 #### The Sanwë Project
