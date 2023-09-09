@@ -12,3 +12,11 @@ This is a list of my open-source projects.
 
 **Web Development:**
 * [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project)
+
+## To Do List
+
+**Web Development:**
+- [x] Make the Mogwai Project Repository Public
+
+**DevOps**
+- [ ] Deploy the mogwai-project into production with GitHub Actions
