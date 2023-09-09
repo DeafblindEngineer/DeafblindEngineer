@@ -8,4 +8,7 @@ I am a passionate software engineer, and an all-around computer geek who enjoys 
 * I write: [https://deafblind.engineer](https://deafblind.engineer)
 
 ## Projects
+This is a list of my open-source projects.
+
+**Web Development:**
 * [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project)
