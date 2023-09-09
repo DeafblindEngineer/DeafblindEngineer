@@ -20,3 +20,6 @@ This is a list of my open-source projects.
 
 **DevOps**
 - [ ] Deploy the mogwai-project into production with GitHub Actions
+
+## Open-Source
+I am currently looking for ways to participate and contribute to the open-source community.
