@@ -6,3 +6,6 @@ I am a passionate software engineer, and an all-around computer geek who enjoys 
 
 ## Essays
 * I write: [https://deafblind.engineer](https://deafblind.engineer)
+
+## Projects
+* [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project)
