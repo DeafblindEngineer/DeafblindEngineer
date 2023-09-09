@@ -16,3 +16,7 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 
 #### DevOps
 * [Work in Progress]: How to deploy the mogwai-project into production with GitHub Actions
+
+### Programming and Scripting Languages
+
+HTML, CSS, C, C++, Objective-C, Objective-C++, C#, Python, Java, Rust, JavaScript, PHP, GoLang, Ada, SQL, BASH Shell, Perl, Ruby, Tcl/Tk, sed, and awk.
