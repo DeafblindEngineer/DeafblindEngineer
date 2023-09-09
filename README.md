@@ -15,4 +15,4 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 * [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project): My personal website written in HTML and CSS
 
 #### DevOps
-* How to deploy the mogwai-project into production with GitHub Actions
+* [Work in Progress]: How to deploy the mogwai-project into production with GitHub Actions
