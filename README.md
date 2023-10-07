@@ -13,6 +13,3 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 
 #### Web Development
 * [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project): My personal website written in HTML and CSS
-
-#### Documentation
-* [Vim Notes](https://github.com/DeafblindEngineer/vim-notes/blob/main/README.md): config files, command cheat sheets, plugins, braille commands, etc ...
