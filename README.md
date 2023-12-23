@@ -18,4 +18,4 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 * [dotfiles](https://github.com/DeafblindEngineer/dotfiles): My dotfiles
 
 ### Braille Tables
-* [Unifed English Braille (UEB)](https://github.com/DeafblindEngineer/unified-english-braille-table)
+* [Unifed English Braille (UEB)](https://github.com/DeafblindEngineer/unified-english-braille)
