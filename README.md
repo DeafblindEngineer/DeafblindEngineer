@@ -13,7 +13,7 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 
 #### Web Development
 * [The Mogwai Project]( https://github.com/DeafblindEngineer/mogwai-project): My personal website written in HTML and CSS
-* [The Tinco Project](https://github.com/DeafblindEngineer/tinco-project): My research and investigations down at the metal
+* [The Tinco Project](https://github.com/DeafblindEngineer/tinco-project): My research down at the metal
 
 ### Documentation
 * [dotfiles](https://github.com/DeafblindEngineer/dotfiles): My dotfiles
