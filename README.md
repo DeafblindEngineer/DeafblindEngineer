@@ -25,6 +25,7 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 **Braille Commands**
 
 * [Brailliant BI 40X](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantbi40x.md)
+* [Brailliant B 80](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantb80.md)
 
 **Braille Tables:**
 
