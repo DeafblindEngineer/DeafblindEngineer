@@ -22,6 +22,10 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 
 * [dotfiles](https://github.com/DeafblindEngineer/dotfiles): My dotfiles
 
+**Braille Commands**
+
+* [Brailliant BI40X](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantbi40x.md)
+
 **Braille Tables:**
 
 * [Computer Braille (8-dot)](https://github.com/DeafblindEngineer/computer-braille)
