@@ -22,7 +22,7 @@ Software Engineer && FOSS Advocate && Linux Enthusiast
 
 * [dotfiles](https://github.com/DeafblindEngineer/dotfiles): My dotfiles
 
-**Braille Commands**
+**Braille Commands:**
 
 * [Humanware Brailliant BI 40X](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantbi40x.md)
 * [Humanware Brailliant B 80](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantb80.md)
